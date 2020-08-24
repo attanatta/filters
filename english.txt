@@ -6,22 +6,17 @@ hru:how are you
 womens:women
 omg:oh my god
 alot:a lot
-wtf: what the fuck
+wtf:what the fuck
 yeap:yep/yeah
 wat:what
 wth:what the hell
-jajaja:HaHaHa
+jajaja:hahaha
 hbd:happy birthday
 ily:I love you
 wbu:what about you
-rofl:rolling on floor laughing
 nvm:never mind
 lmk:let me know
-lmfao:laughing my fucking *a* off
-lol:laughing out loud
-sup:what's up
 rn:right now
 np:no problem
-dunno:don't know
 idk:I don't know
 ikr:I know right
